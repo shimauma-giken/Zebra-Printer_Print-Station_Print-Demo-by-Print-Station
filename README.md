@@ -3,13 +3,15 @@ Zebra-Printer_Print-Station_Print Demo by Print Station
 
 ### 準備すべきもの
 
+**※ Zebra社のスキャナとプリンタの組み合わせで動作するように設計・テストされたソリューションになります。他社製品とのコンビネーションでは機器が正常に認識されず、動作が保証されないソリューションとなりますことご注意ください。**
+
 |||
 |-|-|
 |Zebra Link-OS プリンタ |OTG USBポートがあるもの |
 | Zebra DS スキャナ **※** |下記設定されているもの<br/>- スキャン後にCRLFが追加<br/>- HID出力されているもの|
 | WindowsPC | 下記ソフトがインストールされているもの <br/> - Zebra Designer 3 Developers <br/>- Zebra Setup Utility |
 
-**※ Zebra社のスキャナとプリンタの組み合わせで動作するように設計・テストされたソリューションになります。他社製品では動作が保証されないソリューションとなります。**
+
 
 <br/>
 
